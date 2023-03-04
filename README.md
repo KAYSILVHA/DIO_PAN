@@ -1,4 +1,4 @@
-<h1 align="center">DIO_PAN</h1>
+<h1 align="center"> 🚀⬛⬜◼◻◾◽▪▫DIO_PAN▫▪◽◾◻◼⬜⬛🚀 </h1>
 
 <p align="center">
     Repositório para guardar meu progresso no Bootcamp oferecido pela DIO em parceria com o Banco PAN!
@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Exemplos</a>
+  <a href="#-exemplos">Exemplos</a>
 <br>
 <p align="center">
   <img alt="Programação" src="https://1.bp.blogspot.com/-iGcngsQpp_U/X-kDS0OTcPI/AAAAAAAAccg/UTu5XcZJ_YIWaxd1LLMEs6PWINKaIQtpQCLcBGAsYHQ/s700/POST_MAT.jpg" width="100%">
@@ -14,7 +14,7 @@
 
 >🟡 Projeto em construção
 
-## 👩‍💻Tecnologias
+## 👩‍💻 Tecnologias
 
 <p>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse bootcamp tem o objetivo de ensinar, desde o básico, a linguagem de programação JAVA☕.
 
-## Exemplos
+## 💭 Exemplos
 
 <p>Aqui vão alguns exemplos de códigos que desenvolvemos durante o bootcamp:
 </p>
