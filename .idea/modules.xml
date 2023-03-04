@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/1.2_noEEncadeamento/1.2_noEEncadeamento.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/1.2_noEEncadeamento/1.2_noEEncadeamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_primeiro_programa_intellij/1_primeiro_programa_intellij.iml" filepath="$PROJECT_DIR$/1_primeiro_programa_intellij/1_primeiro_programa_intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_if_and_switch/2_if_and_switch.iml" filepath="$PROJECT_DIR$/2_if_and_switch/2_if_and_switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/2_pilha/2_pilha.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/2_pilha/2_pilha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/3_fila/3_fila.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/3_fila/3_fila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_loops_and_arrays/3_loops_and_arrays.iml" filepath="$PROJECT_DIR$/3_loops_and_arrays/3_loops_and_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/4.1_listas_encadeadas/4.1_listas_encadeadas.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/4.1_listas_encadeadas/4.1_listas_encadeadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/4_estrutura_de_dados.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/4_estrutura_de_dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/listas_encadeadas/4_listas_encadeadas.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/listas_encadeadas/4_listas_encadeadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/_listaDuplamenteEncadeada/5_listaDuplamenteEncadeada.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/_listaDuplamenteEncadeada/5_listaDuplamenteEncadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DIO_PAN.iml" filepath="$PROJECT_DIR$/.idea/DIO_PAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/1.2_noEEncadeamento/InclusaoGenerics/InclusaoGenerics.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/1.2_noEEncadeamento/InclusaoGenerics/InclusaoGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_loops_and_arrays/arrays/arrays.iml" filepath="$PROJECT_DIR$/3_loops_and_arrays/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/1_atribuicaoEreferencia/atribuicaoEreferencia.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/1_atribuicaoEreferencia/atribuicaoEreferencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/3_fila/fila_generics/fila_generics.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/3_fila/fila_generics/fila_generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/3_fila/fila_no_embutido/fila_no_embutido.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/3_fila/fila_no_embutido/fila_no_embutido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifSwitch/ifSwitch.iml" filepath="$PROJECT_DIR$/ifSwitch/ifSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_loops_and_arrays/loops/loops.iml" filepath="$PROJECT_DIR$/3_loops_and_arrays/loops/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops-e-arrays/loops-e-arrays.iml" filepath="$PROJECT_DIR$/loops-e-arrays/loops-e-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiro-programa-intellij/primeiro-programa-intellij.iml" filepath="$PROJECT_DIR$/primeiro-programa-intellij/primeiro-programa-intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treinandoComparacoes/treinandoComparacoes.iml" filepath="$PROJECT_DIR$/treinandoComparacoes/treinandoComparacoes.iml" />
+    </modules>
+  </component>
+</project>
