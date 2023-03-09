@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/ifSwitch/ifSwitch.iml" filepath="$PROJECT_DIR$/ifSwitch/ifSwitch.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_loops_and_arrays/loops/loops.iml" filepath="$PROJECT_DIR$/3_loops_and_arrays/loops/loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/loops-e-arrays/loops-e-arrays.iml" filepath="$PROJECT_DIR$/loops-e-arrays/loops-e-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/7_arvore_binaria/model/model.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/7_arvore_binaria/model/model.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeiro-programa-intellij/primeiro-programa-intellij.iml" filepath="$PROJECT_DIR$/primeiro-programa-intellij/primeiro-programa-intellij.iml" />
       <module fileurl="file://$PROJECT_DIR$/treinandoComparacoes/treinandoComparacoes.iml" filepath="$PROJECT_DIR$/treinandoComparacoes/treinandoComparacoes.iml" />
     </modules>
