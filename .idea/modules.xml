@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/8_principais_implementacoes/4_list/4_list.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/8_principais_implementacoes/4_list/4_list.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/listas_encadeadas/4_listas_encadeadas.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/listas_encadeadas/4_listas_encadeadas.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/5_listaDuplamenteEncadeada/5_listaDuplamenteEncadeada.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/5_listaDuplamenteEncadeada/5_listaDuplamenteEncadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_metodos/5_metodos.iml" filepath="$PROJECT_DIR$/5_metodos/5_metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/8_principais_implementacoes/5_sethashSet/5_sethashSet.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/8_principais_implementacoes/5_sethashSet/5_sethashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/6_listas_circulares/6_listas_circulares.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/6_listas_circulares/6_listas_circulares.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/8_principais_implementacoes/6_map/6_map.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/8_principais_implementacoes/6_map/6_map.iml" />
@@ -25,6 +26,9 @@
       <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/1.2_noEEncadeamento/InclusaoGenerics/InclusaoGenerics.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/1.2_noEEncadeamento/InclusaoGenerics/InclusaoGenerics.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_loops_and_arrays/arrays/arrays.iml" filepath="$PROJECT_DIR$/3_loops_and_arrays/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/1.0_atribuicaoEreferencia/atribuicaoEreferencia.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/1.0_atribuicaoEreferencia/atribuicaoEreferencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_metodos/ex1/ex1.iml" filepath="$PROJECT_DIR$/5_metodos/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_metodos/ex2/ex2.iml" filepath="$PROJECT_DIR$/5_metodos/ex2/ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_metodos/ex3/ex3.iml" filepath="$PROJECT_DIR$/5_metodos/ex3/ex3.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/3_fila/fila_generics/fila_generics.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/3_fila/fila_generics/fila_generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_estrutura_de_dados/3_fila/fila_no_embutido/fila_no_embutido.iml" filepath="$PROJECT_DIR$/4_estrutura_de_dados/3_fila/fila_no_embutido/fila_no_embutido.iml" />
       <module fileurl="file://$PROJECT_DIR$/ifSwitch/ifSwitch.iml" filepath="$PROJECT_DIR$/ifSwitch/ifSwitch.iml" />
