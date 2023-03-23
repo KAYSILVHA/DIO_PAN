@@ -1,30 +1,27 @@
+<h1 align="center"> 🚀⬛⬜◼◻◾◽▪▫DIO_PAN▫▪◽◾◻◼⬜⬛🚀 </h1>
 
-<h1 align="center"> 💠🔷🔹JAVASCRIPT_CURSO_EM VÍDEO🔹🔷💠 </h1>
 
 <p align="center">
-    Repositório para guardar meu progresso no curso oferecido pelo Professor <strong>GUSTAVO GUANABARA</strong> no canall <strong>CURSO EM VÍDEO</strong>
+    Repositório para guardar meu progresso no Bootcamp oferecido pela DIO em parceria com o Banco PAN!
 </p>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-exemplos">Exemplos</a>
+  <a href="#-layout">Exemplos</a>
 <br>
 <p align="center">
-  <img alt="javascript" src="https://sujeitoprogramador.com/wp-content/uploads/2019/08/jsjsjs.png" width="100%">
+  <img alt="Programação" src="https://1.bp.blogspot.com/-iGcngsQpp_U/X-kDS0OTcPI/AAAAAAAAccg/UTu5XcZJ_YIWaxd1LLMEs6PWINKaIQtpQCLcBGAsYHQ/s700/POST_MAT.jpg" width="100%">
 </p>
 
 >🟡 Projeto em construção
 
-## 👩‍💻 Tecnologias
+## 👩‍💻Tecnologias
 
 <p>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- JavaScript
-- HTML
-- CSS
-- Node.Js
-- VS Code
+- Java
+- Intellij Idea
 - Git e Github
 </p>
 
@@ -32,8 +29,85 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse bootcamp tem o objetivo de ensinar, desde o básico, a linguagem de programação JAVA☕.
 
-## 💭 Exemplos
+## Exemplos
 
 <p>Aqui vão alguns exemplos de códigos que desenvolvemos durante o bootcamp:
 </p>
 
+
+### If e else:
+
+```
+public class ifElse {
+    public static void main(String[] args) {
+        Scanner digiteNumero = new Scanner(System.in);
+        System.out.println("Digite o número do mês: ");
+        int numeroMes = digiteNumero.nextInt();
+
+        if (numeroMes==1){
+            System.out.println("Janeiro");
+        } else if (numeroMes==2) {
+            System.out.println("Fevereiro");
+
+        }else if (numeroMes==3) {
+            System.out.println("Março");
+
+        }else if (numeroMes==4) {
+            System.out.println("Abril");
+
+        }else if (numeroMes==5) {
+            System.out.println("Maio");
+
+        }else if (numeroMes==6) {
+            System.out.println("Junho");
+
+        }else if (numeroMes==7) {
+            System.out.println("Julho");
+
+        }else if (numeroMes==8) {
+            System.out.println("Agosto");
+
+        }else if (numeroMes==9) {
+            System.out.println("Setembro");
+
+        }else if (numeroMes==10) {
+            System.out.println("Outubro");
+
+        }else if (numeroMes==11) {
+            System.out.println("Novembro");
+
+        }else if (numeroMes==12) {
+            System.out.println("Dezembro");
+
+        }
+        if(numeroMes==1 || numeroMes==7 || numeroMes==12){
+            System.out.println("Mês de Férias!");
+        }
+    }
+
+}
+```
+
+### Switch:
+
+```
+public class switchNumber {
+    public static void main(String[] args) {
+        Scanner digiteNumber= new Scanner(System.in);
+        System.out.println("Digite um número: ");
+        int numeroDigitado= digiteNumber.nextInt();
+
+
+        switch (numeroDigitado){
+            case 1:
+            case 2:
+            case 3:
+                System.out.println("Certo");
+                break;
+            case 4:
+                System.out.println("Errado");
+                break;
+            case 5:
+                System.out.println("Talvez");
+                break;
+                }
