@@ -46,6 +46,7 @@
       <module fileurl="file://$PROJECT_DIR$/6_poo/heranca/heranca.iml" filepath="$PROJECT_DIR$/6_poo/heranca/heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/ifSwitch/ifSwitch.iml" filepath="$PROJECT_DIR$/ifSwitch/ifSwitch.iml" />
       <module fileurl="file://$PROJECT_DIR$/6_poo/interface/interface.iml" filepath="$PROJECT_DIR$/6_poo/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_poo/collections/list/list.iml" filepath="$PROJECT_DIR$/6_poo/collections/list/list.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_loops_and_arrays/loops/loops.iml" filepath="$PROJECT_DIR$/3_loops_and_arrays/loops/loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/loops-e-arrays/loops-e-arrays.iml" filepath="$PROJECT_DIR$/loops-e-arrays/loops-e-arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/6_poo/collections/map/map.iml" filepath="$PROJECT_DIR$/6_poo/collections/map/map.iml" />
@@ -55,6 +56,7 @@
       <module fileurl="file://$PROJECT_DIR$/6_poo/polimorfismo_and_sobrescrita/polimorfismo_and_sobrescrita.iml" filepath="$PROJECT_DIR$/6_poo/polimorfismo_and_sobrescrita/polimorfismo_and_sobrescrita.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeiro-programa-intellij/primeiro-programa-intellij.iml" filepath="$PROJECT_DIR$/primeiro-programa-intellij/primeiro-programa-intellij.iml" />
       <module fileurl="file://$PROJECT_DIR$/6_poo/collections/set/set.iml" filepath="$PROJECT_DIR$/6_poo/collections/set/set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_poo/collections/streamAPI/streamAPI.iml" filepath="$PROJECT_DIR$/6_poo/collections/streamAPI/streamAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/treinandoComparacoes/treinandoComparacoes.iml" filepath="$PROJECT_DIR$/treinandoComparacoes/treinandoComparacoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/6_poo/up-and-downcasts/up-and-downcasts.iml" filepath="$PROJECT_DIR$/6_poo/up-and-downcasts/up-and-downcasts.iml" />
     </modules>
